@@ -1,0 +1,1 @@
+kubeadm join 192.168.50.10:6443 --token bpaop3.w0x8d3ck5djjmqrt     --discovery-token-ca-cert-hash sha256:38e779761be46a72421e463ef72c390c6a6bbd0d821a5f56b2af2916ce4713da 
